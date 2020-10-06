@@ -155,7 +155,7 @@ Equal Housing Opportunity.  All loans subject to underwriting approval. Certain 
 
 #### CA
 `{{ organization.disclaimers.CA.content }}`<br>
-Licensed by the Department of Business Oversight under the California Residential Mortgage Lending Act.
+Licensed by the Department of Financial Protection and Innovation under the California Residential Mortgage Lending Act.
 
 #### Consult_a_Tax_Advisor
 `{{ organization.disclaimers.Consult_a_Tax_Advisor.content }}`<br>
